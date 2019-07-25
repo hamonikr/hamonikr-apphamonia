@@ -1,4 +1,6 @@
-# apphamonia
+# hamonikr-apphamonia
+
+하모니카 사용자를 위한 화상회의 프로그램
 
 ## Project setup
 ```
