@@ -29,3 +29,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### 오류 수정
+빌드시오류 
