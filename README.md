@@ -29,3 +29,5 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+* 변수 초기화로 인해 접속이 안되던 부분 수정
