@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-![screensht samlpe](./img/image2019-7-9_18-14-31.png?raw=true)
+![screensht samlpe](/hamonikr/hamonikr-apphamonia/blob/update-info/img/image2019-7-9_18-14-16.png?raw=true)
 별도의 서버를 구축하지 않고 피어간 웹브라우저를 기반으로 실시간 영상과 문서를 공유할 수 있는 WebRTC 기반 P2P 아키텍처
 ![screensht samlpe](./img/image2019-7-9_18-14-16.png?raw=true)
 실시간 문서 공유 및 판서 기능
