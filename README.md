@@ -14,27 +14,27 @@
 <br/>
 <br/>
 # 사용법
+<br/>
 ## 프로젝트 설정
 ```
 yarn install
 ```
-
+<br/>
 ### 개발을 위한 컴파일 및 핫리로드
 ```
 yarn run serve
 ```
-
+<br/>
 ### 빌드를 위한 컴파일
 ```
 yarn run build
 ```
-
+<br/>
 ### 테스트 실행
 ```
 yarn run test
 ```
-
-### Lints and fixes files
+<br/>
 ### Lints 및 수정파일
 ```
 yarn run lint
