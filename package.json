@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "material-design-icons-iconfont": "^5.0.1",
     "roboto-fontface": "*",
     "vue": "^2.6.10",
