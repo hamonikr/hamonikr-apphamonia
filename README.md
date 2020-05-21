@@ -1,6 +1,6 @@
 # hamonikr-apphamonia
 
-화상회의 프로그램 hamonia
+화상회의 프로그램 hamonia(하모니아)
 
 node 8.16.0 이상
 
