@@ -1,4 +1,4 @@
-test---------22222222222-----------# hamonikr-apphamonia
+# hamonikr-apphamonia
 
 화상회의 프로그램 hamonia
 
